@@ -27,4 +27,5 @@ Make sure you are installing the certificate in the end point(iOS,Android device
 To do that just mail yourself the certificate and click on it to install.
 
 FYI:
-As of now in android without installing the certificate in the device also works but in iOS it won't.
+As of now for android without installing the certificate in the device also it works but in iOS it won't.
+You have to install the certificate only if it is self signed certificate
