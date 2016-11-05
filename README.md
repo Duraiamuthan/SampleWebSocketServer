@@ -20,12 +20,22 @@ Create the self signed one using the following command in terminal or command pr
             
 It'll prompt you for details like country,province etc...
 
-But be careful about what you enter for **CommonName** it should be same as Domain Name or IP address of the URL. 
+But be careful about what you enter for *CommonName* it should be same as Domain Name or IP address of the URL. 
 
 Make sure you are installing the certificate in the end point(iOS,Android device or browser) and trust it in the device locally
 
 To do that just mail yourself the certificate and click on it to install.
 
-FYI:
+**FYI:**
 As of now for android without installing the certificate in the device also it works but in iOS it won't.
 You have to install the certificate only if it is self signed certificate
+
+**Monitoring the WebSocketTraffic**
+
+There is a proxy server called *Charles* which lets you easily monitor  web socket traffice.
+
+Find my answers on stack overflow on how to monitor
+
+http://stackoverflow.com/a/39916796/730807
+
+http://stackoverflow.com/a/39898741/730807
