@@ -2,9 +2,9 @@
 
 A sample web socket server(Both Ws+Wss) which is powered by Node-JS.
 
-Usign this one can easily build up the client part(iOS,Android or webapp) on websocket as it'll save lots of time for your development.
+Usign this one can easily build up the client part(iOS,Android or webapp) on websocket as it'll save lots of time that you'll spend on server part.
 
-It's a sample which will create both WS(Web Socket) and WSS(WebSecuredSocket) Server and it'll properly emit the status of the web socket connection at any given moment and it'll echo the message that you sent to the server from client.
+It's a sample which will create both WS(Web Socket) and WSS(WebSecuredSocket) Server and it'll properly emit the status of the web socket connection at any given moment and it'll echo the message that you send to the server from client.
 
 In order to work with WSS.
 
