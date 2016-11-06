@@ -32,7 +32,7 @@ You have to install the certificate only if it is self signed certificate
 
 **Monitoring the WebSocketTraffic**
 
-There is a proxy server called *Charles* which lets you easily monitor  web socket traffice.
+There is a proxy server called *Charles* which lets you easily monitor web socket traffic easily.
 
 Find my answers on stack overflow on how to monitor
 
