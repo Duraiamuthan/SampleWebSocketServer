@@ -26,14 +26,16 @@ Make sure you are installing the certificate in the end point(iOS,Android device
 
 To do that just mail yourself the certificate and click on it to install.
 
+**FYI:**
+
+As of now for android without installing the certificate in the device also it works but in iOS it won't.
+You have to install the certificate only if it is self signed certificate
+
 **WebSocket Server Address:**
+
 You can access the web socket server as in below url
 ws://ipaddressofyourserver:8888
 wss://ipaddressofyourserver:8181
-
-**FYI:**
-As of now for android without installing the certificate in the device also it works but in iOS it won't.
-You have to install the certificate only if it is self signed certificate
 
 **Monitoring the WebSocket Traffic:**
 
