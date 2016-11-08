@@ -33,9 +33,13 @@ You have to install the certificate only if it is self signed certificate
 
 **WebSocket Server Address:**
 
-You can access the web socket server as in below url
-ws://ipaddressofyourserver:8888
-wss://ipaddressofyourserver:8181
+You have to access the web socket server as in below url
+
+ws://ipaddressofyourserver
+
+You have to access the secured web socket server as in below url
+
+wss://ipaddressofyourserver
 
 **Monitoring the WebSocket Traffic:**
 
