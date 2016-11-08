@@ -6,9 +6,9 @@ var https = require('https');
 
 var fs = require('fs');
 
-var httpPort=8888;
+var httpPort=80;
 
-var httpsPort=8181;
+var httpsPort=443;
 
 var options = {
 key: fs.readFileSync('SelfSignedCertificates/key.pem'),
